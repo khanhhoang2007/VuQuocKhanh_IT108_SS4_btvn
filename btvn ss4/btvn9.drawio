@@ -1,0 +1,145 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.3">
+  <diagram name="Trang-1" id="9O4stmVf6Vxeh6N7v-LR">
+    <mxGraphModel dx="2605" dy="1490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nmNAHQX-qrnks123ssGs-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nmNAHQX-qrnks123ssGs-1" target="nmNAHQX-qrnks123ssGs-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nmNAHQX-qrnks123ssGs-1" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nmNAHQX-qrnks123ssGs-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nmNAHQX-qrnks123ssGs-2" target="nmNAHQX-qrnks123ssGs-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nmNAHQX-qrnks123ssGs-2" value="&#xa;Nhập a, b, c&#xa;&#xa;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="390" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nmNAHQX-qrnks123ssGs-7" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nmNAHQX-qrnks123ssGs-4" target="nmNAHQX-qrnks123ssGs-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nmNAHQX-qrnks123ssGs-16" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nmNAHQX-qrnks123ssGs-4" target="nmNAHQX-qrnks123ssGs-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nmNAHQX-qrnks123ssGs-4" value="&#xa;a = 0 ?&#xa;&#xa;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="500" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nmNAHQX-qrnks123ssGs-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nmNAHQX-qrnks123ssGs-6" target="nmNAHQX-qrnks123ssGs-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&#xa; (phương trình bậc nhất &lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mrow&gt;&lt;mi&gt;b&lt;/mi&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mi&gt;c&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/mrow&gt;bx + c = 0&lt;/math&gt;&lt;/span&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;katex-html&quot;&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord mathnormal&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;mord mathnormal&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;mspace&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mbin&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;mspace&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord mathnormal&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;mspace&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mrel&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mspace&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;)&#xa;&#xa;" link="&#xa; (phương trình bậc nhất &lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mrow&gt;&lt;mi&gt;b&lt;/mi&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mi&gt;c&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/mrow&gt;bx + c = 0&lt;/math&gt;&lt;/span&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;katex-html&quot;&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord mathnormal&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;mord mathnormal&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;mspace&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mbin&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;mspace&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord mathnormal&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;mspace&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mrel&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mspace&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;)&#xa;&#xa;" id="nmNAHQX-qrnks123ssGs-6">
+          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="510" y="510" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="nmNAHQX-qrnks123ssGs-11" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry x="0.5652" relative="1" as="geometry">
+            <mxPoint x="620" y="650" as="sourcePoint" />
+            <mxPoint x="760" y="740" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nmNAHQX-qrnks123ssGs-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nmNAHQX-qrnks123ssGs-8" target="nmNAHQX-qrnks123ssGs-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nmNAHQX-qrnks123ssGs-36" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nmNAHQX-qrnks123ssGs-35">
+          <mxGeometry x="0.4923" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nmNAHQX-qrnks123ssGs-8" value="&#xa;b = 0 ?&#xa;&#xa;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="610" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nmNAHQX-qrnks123ssGs-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nmNAHQX-qrnks123ssGs-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="800" as="sourcePoint" />
+            <mxPoint x="530" y="1020" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="750" y="1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nmNAHQX-qrnks123ssGs-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nmNAHQX-qrnks123ssGs-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="1020" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="930" y="520" />
+              <mxPoint x="930" y="1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nmNAHQX-qrnks123ssGs-12" value="&#xa; &lt;strong data-end=&quot;481&quot; data-start=&quot;469&quot;&gt;x = -c/b&lt;/strong&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="500" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nmNAHQX-qrnks123ssGs-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nmNAHQX-qrnks123ssGs-15" target="nmNAHQX-qrnks123ssGs-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nmNAHQX-qrnks123ssGs-15" value="đi tiếp" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nmNAHQX-qrnks123ssGs-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nmNAHQX-qrnks123ssGs-17" target="nmNAHQX-qrnks123ssGs-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nmNAHQX-qrnks123ssGs-17" value="&#xa;Tính Δ = b² – 4ac&#xa;&#xa;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nmNAHQX-qrnks123ssGs-22" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nmNAHQX-qrnks123ssGs-19" target="nmNAHQX-qrnks123ssGs-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nmNAHQX-qrnks123ssGs-24" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nmNAHQX-qrnks123ssGs-19" target="nmNAHQX-qrnks123ssGs-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nmNAHQX-qrnks123ssGs-19" value="&#xa;Δ &amp;lt; 0 ?&#xa;&#xa;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nmNAHQX-qrnks123ssGs-21" value="&#xa;In “Vô nghiệm”&#xa;&#xa;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="740" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nmNAHQX-qrnks123ssGs-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nmNAHQX-qrnks123ssGs-23" target="nmNAHQX-qrnks123ssGs-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nmNAHQX-qrnks123ssGs-23" value="&#xa;(&lt;strong data-end=&quot;864&quot; data-start=&quot;855&quot;&gt;Δ &amp;gt; 0&lt;/strong&gt;)&#xa;&#xa;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="890" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nmNAHQX-qrnks123ssGs-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nmNAHQX-qrnks123ssGs-25" target="nmNAHQX-qrnks123ssGs-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nmNAHQX-qrnks123ssGs-25" value="&#xa;x₁ = (-b + √Δ) / (2a)&#xa;&#xa;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="890" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nmNAHQX-qrnks123ssGs-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="nmNAHQX-qrnks123ssGs-27" target="nmNAHQX-qrnks123ssGs-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="1030" />
+              <mxPoint x="160" y="1030" />
+              <mxPoint x="160" y="1035" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nmNAHQX-qrnks123ssGs-27" value="&#xa;x₂ = (-b - √Δ) / (2a)&#xa;&#xa;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="890" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nmNAHQX-qrnks123ssGs-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nmNAHQX-qrnks123ssGs-29" target="nmNAHQX-qrnks123ssGs-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nmNAHQX-qrnks123ssGs-29" value="&#xa;In x₁, x₂&#xa;&#xa;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nmNAHQX-qrnks123ssGs-33" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="980" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nmNAHQX-qrnks123ssGs-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="nmNAHQX-qrnks123ssGs-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="800" as="sourcePoint" />
+            <mxPoint x="530" y="1020" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nmNAHQX-qrnks123ssGs-10" value="&#xa; &lt;strong data-end=&quot;409&quot; data-start=&quot;373&quot;&gt;In “Vô nghiệm hoặc vô số nghiệm”&lt;/strong&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
