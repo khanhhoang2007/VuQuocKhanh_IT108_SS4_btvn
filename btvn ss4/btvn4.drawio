@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.3">
+  <diagram name="Page-1" id="7vktPTdrhZ-ENjCGRih0">
+    <mxGraphModel dx="1042" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_aspyY1tnrpLiOIbRK5I-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_aspyY1tnrpLiOIbRK5I-1" target="_aspyY1tnrpLiOIbRK5I-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_aspyY1tnrpLiOIbRK5I-1" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_aspyY1tnrpLiOIbRK5I-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_aspyY1tnrpLiOIbRK5I-2" target="_aspyY1tnrpLiOIbRK5I-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_aspyY1tnrpLiOIbRK5I-2" value="liệt kê công viêc" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_aspyY1tnrpLiOIbRK5I-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_aspyY1tnrpLiOIbRK5I-4" target="_aspyY1tnrpLiOIbRK5I-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_aspyY1tnrpLiOIbRK5I-4" value="chọn công việc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_aspyY1tnrpLiOIbRK5I-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_aspyY1tnrpLiOIbRK5I-5" target="_aspyY1tnrpLiOIbRK5I-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_aspyY1tnrpLiOIbRK5I-5" value="hoàn thành và đánh dấu xong" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_aspyY1tnrpLiOIbRK5I-8" value="Nếu có" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_aspyY1tnrpLiOIbRK5I-6" target="_aspyY1tnrpLiOIbRK5I-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="770" />
+              <mxPoint x="200" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_aspyY1tnrpLiOIbRK5I-10" value="nếu không" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_aspyY1tnrpLiOIbRK5I-6" target="_aspyY1tnrpLiOIbRK5I-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_aspyY1tnrpLiOIbRK5I-6" value="còn công việc&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;chưa xong?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="710" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_aspyY1tnrpLiOIbRK5I-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_aspyY1tnrpLiOIbRK5I-9" target="_aspyY1tnrpLiOIbRK5I-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_aspyY1tnrpLiOIbRK5I-9" value="đi tiếp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="745" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_aspyY1tnrpLiOIbRK5I-14" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="900" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
